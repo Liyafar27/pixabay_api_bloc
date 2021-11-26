@@ -1,16 +1,17 @@
 # pixabay_api_bloc
+# Weathear app
+apk https://drive.google.com/file/d/1LCLoTagT-8-3fPOyOr9A0lT76HAPCWue/view?usp=sharing
+<p align="left">
+video     https://drive.google.com/file/d/1RtDXBa3GqJ5v9d2d6vW0bV0xpMmWB8d6/view
+    
+</p>
+*first time opening the application require geolocation permission and after shows the weather of the current location
 
-A new Flutter project.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/Liyafar27/homePC/master/Screenshot_20211126-080440.png" width="250" alt="accessibility text">  
+    <img src="https://raw.githubusercontent.com/Liyafar27/homePC/master/Screenshot_20211126-080451.png" width="250" alt="accessibility text">
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+ <p align="center">
+    <img src="https://raw.githubusercontent.com/Liyafar27/homePC/master/Screenshot_20211126-080303.png" width="250" alt="accessibility text">  
+    <img src="https://raw.githubusercontent.com/Liyafar27/homePC/master/Screenshot_20211126-080312.png" width="250" alt="accessibility text">
+</p>
