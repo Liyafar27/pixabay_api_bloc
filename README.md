@@ -4,7 +4,7 @@ apk https://drive.google.com/file/d/1ab5nriEmahCPmdXEK08HuACB03G16-66/view?usp=s
 video     https://drive.google.com/file/d/1Sf9ej1rnQz62ucdirdi7Cidf1jdhr0ap/view?usp=sharing
     
 </p>
-When app open first time shows 100 the most popular picture from  pixabay. Send request what exactly you want fins for example "cat ' or "кот" 
+When app open first time shows 100 the most popular picture from  pixabay. Send request what exactly you want find for example "cat ' or "кот" 
 and share chosen picture.
 <p align="center">
     <img src="https://raw.githubusercontent.com/Liyafar27/homePC/master/Screenshot_20211126-080440.png" width="250" alt="accessibility text">  
